@@ -1,0 +1,15 @@
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\bin\Debug\net6.0\testecódigo.exe
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\bin\Debug\net6.0\testecódigo.deps.json
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\bin\Debug\net6.0\testecódigo.runtimeconfig.json
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\bin\Debug\net6.0\testecódigo.dll
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\bin\Debug\net6.0\testecódigo.pdb
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.csproj.AssemblyReference.cache
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.AssemblyInfoInputs.cache
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.AssemblyInfo.cs
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.csproj.CoreCompileInputs.cache
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.dll
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\refint\testecódigo.dll
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.pdb
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\testecódigo.genruntimeconfig.cache
+C:\Users\Vitor_2\source\repos\testecódigo\testecódigo\obj\Debug\net6.0\ref\testecódigo.dll
